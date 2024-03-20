@@ -11,40 +11,37 @@ Prerequisites for the course include basic understanding of programming concepts
 ### Who can take the course?
 The course is open to anyone interested in learning DevOps practices, including software developers, system administrators, and IT professionals looking to enhance their skills in software delivery and operations.
 
-## Course Modules
-
-### Module 1: Introduction to DevOps
-- Understanding DevOps principles and practices
-- Overview of DevOps tools and technologies
-
-### Module 2: Version Control with Git
-- Introduction to version control systems
-- Git basics and advanced concepts
-- Collaborative development workflows with Git
-
-### Module 3: Continuous Integration and Delivery (CI/CD)
-- Setting up CI/CD pipelines
-- Automated testing and deployment strategies
-- Monitoring and feedback loops in CI/CD
-
-### Module 4: Infrastructure as Code (IaC)
-- Introduction to IaC principles
-- Configuration management tools like Ansible and Chef
-- Infrastructure provisioning with Terraform
-
-### Module 5: Containerization with Docker
-- Introduction to containerization
-- Docker fundamentals and architecture
-- Container orchestration with Kubernetes
-
 ## Course Outline
 
-- Duration: 12 weeks (3 months)
+### Month 1: Foundation in DevOps
+- Week 1: Introduction to DevOps principles and practices
+- Week 2: Version Control with Git and GitHub
+- Week 3: Collaborative development workflows with Git
+
+### Month 2: Automation and CI/CD
+- Week 4: Continuous Integration with Jenkins
+- Week 5: Introduction to Infrastructure as Code (IaC) with Terraform
+- Week 6: Setting up CI/CD pipelines with Jenkins
+
+### Month 3: Cloud and Containerization
+- Week 7: Cloud Computing with AWS
+- Week 8: Containerization with Docker
+- Week 9: Container Orchestration with Kubernetes
+
+### Month 4: Advanced Topics and Bonus Month
+- Week 10: Linux and Shell Scripting
+- Week 11: Advanced Terraform and AWS
+- Week 12: Advanced Docker and Kubernetes
+- Bonus Month: Bootcamp and Interview Preparation
+
+## Course Schedule
+
+- Duration: 4 months (16 weeks)
 - Class format: Instructor-led sessions, hands-on labs, and projects
-- Schedule: Classes held twice a week (3 hours per session)
+- Schedule: Classes held three times a week (2 hours per session)
 
 ## Cost
-The course fee is $1000, which includes access to all course materials, lab exercises, and support from instructors.
+The course fee is $1500, which includes access to all course materials, lab exercises, and support from instructors.
 
 ## Possible Job Opportunities
 Upon completion of the course, students can pursue various roles such as:
