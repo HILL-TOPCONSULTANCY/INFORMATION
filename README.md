@@ -64,9 +64,6 @@ The course is open to anyone interested in learning DevOps practices, including 
 - Class format: Instructor-led sessions, hands-on labs, and projects
 - Schedule: Classes held three times a week (2 hours per session)
 
-## Cost
-The course fee is $1500, which includes access to all course materials, lab exercises, and support from instructors.
-
 ## Possible Job Opportunities
 Upon completion of the course, students can pursue various roles such as:
 - DevOps Engineer
