@@ -11,7 +11,7 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 Anyone interested in enhancing their skills in software delivery and operations can take the DevOps course.
 
 ### What are the prerequisites for the course?
-Preferably, candidates should have a bachelor's degree in computer science or a related field. Basic understanding of programming concepts and familiarity with Linux/Unix systems is recommended but not mandatory.
+Preferably, candidates should have a bachelor's degree in any field. 
 
 ### What are the technical requirements to take the course?
 Students are required to have a laptop with the following specifications:
