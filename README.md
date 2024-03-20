@@ -29,11 +29,21 @@ The course fee of $2500 can be paid in three installments as follows:
 - Second installment: $800 due at the beginning of the second month
 - Third installment: $700 due at the beginning of the third month
 
-Payments can be made via credit card, bank transfer, or PayPal.
+### Payments can be made via the following methods:
 
+- **PayPal**: [sani.ray.red@gmail.com](mailto:sani.ray.red@gmail.com)
+- **MTN Mobile Money**: 672923300
+- **Bank Payment**: *On demand*
 
-### Who can take the course?
-The course is open to anyone interested in learning DevOps practices, including software developers, system administrators, and IT professionals looking to enhance their skills in software delivery and operations.
+For bank payment details, please contact us at [info@hilltopconsultancy.com](mailto:info@hilltopconsultancy.com).
+
+For further inquiries or to enroll in the course, please contact us at [info@hilltopconsultancy.com](mailto:info@hilltopconsultancy.com).
+
+## Course Schedule
+
+- Duration: 4 months (16 weeks)
+- Class format: Instructor-led sessions, hands-on labs, and projects
+- Schedule: Classes held three times a week (2 hours per session)
 
 ## Course Outline
 
@@ -58,17 +68,12 @@ The course is open to anyone interested in learning DevOps practices, including 
 - Week 12: Advanced Docker and Kubernetes
 - Bonus Month: Bootcamp and Interview Preparation
 
-## Course Schedule
-
-- Duration: 4 months (16 weeks)
-- Class format: Instructor-led sessions, hands-on labs, and projects
-- Schedule: Classes held three times a week (2 hours per session)
-
 ## Possible Job Opportunities
 Upon completion of the course, students can pursue various roles such as:
 - DevOps Engineer
 - Site Reliability Engineer (SRE)
 - Cloud Engineer
+- Cloud Solution Architect
 - Automation Engineer
 - Release Manager
 
