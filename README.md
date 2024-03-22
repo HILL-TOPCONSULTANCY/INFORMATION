@@ -10,6 +10,10 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 ### Who can take the DevOps course?
 Anyone interested in enhancing their skills in software delivery and operations can take the DevOps course. Also if you  have  no IT background and want to begin your journey into IT, this can a starter course for your new career ambitions.
 
+### You dont have any IT experience or Background?
+"No IT experience required! Our DevOps course is tailored for beginners, offering expert guidance and hands-on training to empower your journey."
+
+
 ### What are the prerequisites for the course?
 You  need a laptop, good internet, and the passion to thrieve in the IT  industry. Preferably, candidates should have a bachelor's degree in any field for better understanding of concepts. 
 
