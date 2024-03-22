@@ -48,7 +48,7 @@ For further inquiries or to enroll in the course, please contact us at [info@hil
 # Course Information
 
 ## Teaching Days
-- Classes will be held on **Tuesday**, **Thursday** from 7:00 - 9:00 CET, and **Saturday** for catch-up days.
+- Classes will be held on **Tuesdays**, **Thursdays** from 7:00 - 9:00 CET, and **Saturdays** for catch-up days.
 
 - **Official Start Date:** April 9th, 2024
 - **End Date:** August 3rd, 2024
@@ -80,6 +80,7 @@ For further inquiries or to enroll in the course, please contact us at [info@hil
 ## Possible Job Opportunities
 Upon completion of the course, students can pursue various roles such as:
 - DevOps Engineer
+- DecSecOps Engineer
 - Site Reliability Engineer (SRE)
 - Cloud Engineer
 - Cloud Solution Architect
