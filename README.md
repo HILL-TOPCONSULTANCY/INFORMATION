@@ -8,10 +8,10 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 ## Course Eligibility
 
 ### Who can take the DevOps course?
-Anyone interested in enhancing their skills in software delivery and operations can take the DevOps course.
+Anyone interested in enhancing their skills in software delivery and operations can take the DevOps course. Also if you  have  no IT background and want to begin your journey into IT, this can a starter course for your new career ambitions.
 
 ### What are the prerequisites for the course?
-Preferably, candidates should have a bachelor's degree in any field. 
+You  need a laptop, good internet, and the passion to thrieve in the IT  industry. Preferably, candidates should have a bachelor's degree in any field for better understanding of concepts. 
 
 ### What are the technical requirements to take the course?
 Students are required to have a laptop with the following specifications:
@@ -20,6 +20,7 @@ Students are required to have a laptop with the following specifications:
 - RAM: 8GB or higher
 - Storage: 256GB SSD or higher
 - Internet connection
+Students should also be in possession of a Master or Visa Card which will be used to setup a 12  months free tier account on AWS.
 
 ## Payment Plan
 
@@ -44,15 +45,6 @@ For further inquiries or to enroll in the course, please contact us at [info@hil
 - Duration: 4 months (16 weeks)
 - Class format: Instructor-led sessions, hands-on labs, and projects
 - Schedule: Classes held three times a week (2 hours per session)
-
-# Course Information
-
-## Teaching Days
-- Classes will be held on **Tuesday**, **Thursday** from 7:00 - 9:00 CET, and **Saturday** for catch-up days.
-
-- **Official Start Date:** April 9th, 2024
-- **End Date:** August 3rd, 2024
-- **BootCamp Dates:** August 4th to August 31st, 2024
 
 ## Course Outline
 
