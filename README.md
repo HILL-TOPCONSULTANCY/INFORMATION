@@ -46,6 +46,7 @@ For further inquiries or to enroll in the course, please contact us at [info@hil
 - Class format: Instructor-led sessions, hands-on labs, and projects
 - Schedule: Classes held three times a week (2 hours per session)
 
+
 ## Course Outline
 
 ### Month 1: Foundation in DevOps
@@ -72,6 +73,7 @@ For further inquiries or to enroll in the course, please contact us at [info@hil
 ## Possible Job Opportunities
 Upon completion of the course, students can pursue various roles such as:
 - DevOps Engineer
+- DecSecOps Engineer
 - Site Reliability Engineer (SRE)
 - Cloud Engineer
 - Cloud Solution Architect
