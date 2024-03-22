@@ -45,6 +45,15 @@ For further inquiries or to enroll in the course, please contact us at [info@hil
 - Class format: Instructor-led sessions, hands-on labs, and projects
 - Schedule: Classes held three times a week (2 hours per session)
 
+# Course Information
+
+## Teaching Days
+- Classes will be held on **Tuesday**, **Thursday** from 7:00 - 9:00 CET, and **Saturday** for catch-up days.
+
+- **Official Start Date:** April 9th, 2024
+- **End Date:** August 3rd, 2024
+- **BootCamp Dates:** August 4th to August 31st, 2024
+
 ## Course Outline
 
 ### Month 1: Foundation in DevOps
