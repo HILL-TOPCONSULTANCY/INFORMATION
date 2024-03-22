@@ -49,6 +49,15 @@ For further inquiries or to enroll in the course, please contact us at [info@hil
 
 ## Course Outline
 
+# Course Information
+
+## Teaching Days
+- Classes will be held on **Tuesdays**, **Thursdays** from 7:00 - 9:00 CET, and **Saturdays** for catch-up days.
+
+- **Official Start Date:** April 9th, 2024
+- **End Date:** August 3rd, 2024
+- **BootCamp Dates:** August 4th to August 31st, 2024
+
 ### Month 1: Foundation in DevOps
 - Week 1: Introduction to DevOps principles and practices
 - Week 2: Version Control with Git and GitHub
