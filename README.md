@@ -1,4 +1,5 @@
-# Welcome to Hilltop Consultancy DevOps Course
+# Welcome to Hilltop Consultancy DevOps Course where IT is demystified
+We are committed to pushing the limits of technology by empowering people with 21st Century labor market IT skills
 
 ## Frequently Asked Questions
 
@@ -11,7 +12,7 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 Anyone interested in enhancing their skills in software delivery and operations can take the DevOps course. Also if you  have  no IT background and want to begin your journey into IT, this can a starter course for your new career ambitions.
 
 ### You dont have any IT experience or Background?
-"No IT experience required! Our DevOps course is tailored for beginners, offering expert guidance and hands-on training to empower your journey."
+No IT experience required! Our DevOps course is tailored for beginners, offering expert guidance and hands-on training to empower your journey.
 
 
 ### What are the prerequisites for the course?
@@ -29,15 +30,15 @@ Students should also be in possession of a Master or Visa Card which will be use
 ## Payment Plan
 
 ### What is the payment plan for the course?
-The course fee of $2500 can be paid in three installments as follows:
-- First installment: $1000 due at enrollment
-- Second installment: $800 due at the beginning of the second month
-- Third installment: $700 due at the beginning of the third month
+The course fee of **$2500** can be paid in three installments as follows:
+- First installment: **$1000** due at enrollment
+- Second installment: **$800** due at the beginning of the second month
+- Third installment: **$700** due at the beginning of the third month
 
 ### Payments can be made via the following methods:
 
 - **PayPal**: [sani.ray.red@gmail.com](mailto:sani.ray.red@gmail.com)
-- **MTN Mobile Money**: 672923300
+- **MTN Mobile Money**: 672923300  **Prince Chafah F. Sani***
 - **Bank Payment**: *On demand*
 
 For bank payment details, please contact us at [info@hilltopconsultancy.com](mailto:info@hilltopconsultancy.com).
@@ -47,7 +48,7 @@ For further inquiries or to enroll in the course, please contact us at [info@hil
 ## Course Schedule
 
 - Duration: 4 months (16 weeks)
-- Class format: Instructor-led sessions, hands-on labs, and projects
+- Class format: Online Instructor-led sessions, hands-on labs, and projects
 - Schedule: Classes held three times a week (2 hours per session)
 
 
@@ -62,25 +63,25 @@ For further inquiries or to enroll in the course, please contact us at [info@hil
 - **End Date:** August 3rd, 2024
 - **BootCamp Dates:** August 4th to August 31st, 2024
 
-### Month 1: Foundation in DevOps
+### Month 1: Fundamentals
 - Week 1: Introduction to DevOps principles and practices
-- Week 2: Version Control with Git and GitHub
-- Week 3: Collaborative development workflows with Git
+- Week 2: Linux and Shell Scripting
+- Week 3: Cloud Computing with AWS
 
 ### Month 2: Automation and CI/CD
-- Week 4: Continuous Integration with Jenkins
-- Week 5: Introduction to Infrastructure as Code (IaC) with Terraform
+- Week 4: Version Control with Git and GitHub
+- Week 5: Continuous Integration with Jenkins
 - Week 6: Setting up CI/CD pipelines with Jenkins
 
 ### Month 3: Cloud and Containerization
-- Week 7: Cloud Computing with AWS
+- Week 7: Introduction to Infrastructure as Code (IaC) with Terraform
 - Week 8: Containerization with Docker
 - Week 9: Container Orchestration with Kubernetes
 
 ### Month 4: Advanced Topics and Bonus Month
-- Week 10: Linux and Shell Scripting
-- Week 11: Advanced Terraform and AWS
-- Week 12: Advanced Docker and Kubernetes
+- Week 10: Advanced Terraform and AWS
+- Week 11: Advanced Docker and Kubernetes
+- Week 12: CICD, Jira, Slack
 - Bonus Month: Bootcamp and Interview Preparation
 
 ## Possible Job Opportunities
