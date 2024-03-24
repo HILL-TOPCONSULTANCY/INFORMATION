@@ -42,13 +42,13 @@ The course fee of **$2500** can be paid in three installments as follows:
 
 ### Payments can be made via the following methods:
 
-- **PayPal**: [sani.ray.red@gmail.com](mailto:sani.ray.red@gmail.com)
+- **PayPal**: sani.ray.red@gmail.com
 - **MTN Mobile Money**: 672923300  **Prince Chafah F. Sani***
 - **Bank Payment**: *On demand*
 
-For bank payment details, please contact us at [info@hilltopconsultancy.com](mailto:info@hilltopconsultancy.com).
+For bank payment details, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).
 
-For further inquiries or to enroll in the course, please contact us at [info@hilltopconsultancy.com](mailto:info@hilltopconsultancy.com).
+For further inquiries or to enroll in the course, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).
 
 ## Course Schedule
 
@@ -102,4 +102,4 @@ Upon completion of the course, students can pursue various roles such as:
 ## Average Salary
 The average salary for DevOps professionals ranges from $90,000 to $150,000 per year, depending on factors such as experience, location, and industry.
 
-For further inquiries or to enroll in the course, please contact us at [info@hilltopconsultancy.com](mailto:info@hilltopconsultancy.com).
+For further inquiries or to enroll in the course, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).   or Call us at    *(+45) 715 730 47*
