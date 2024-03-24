@@ -1,6 +1,11 @@
 # Welcome to Hilltop Consultancy DevOps Course where IT is demystified
 We are committed to pushing the limits of technology by empowering people with 21st Century labor market IT skills
 
+
+## Contact
+**Email:**  *info@htconsultancy.net*
+**Tell:**  *(+45) 715 730 47*
+
 ## Frequently Asked Questions
 
 ### What is DevOps?
