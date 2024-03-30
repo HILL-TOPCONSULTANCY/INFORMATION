@@ -90,6 +90,14 @@ For further inquiries or to enroll in the course, please contact us at [info@htc
 - Week 12: CICD, Jira, Slack
 - Bonus Month: Bootcamp and Interview Preparation
 
+# PROGRAM PACKAGE
+- 4 Months handson training with industry grade projects
+- Weekly catchup sessions
+- One Month BootCamp
+- CV Preperations
+- Interview Preperations
+- Referencing and Background checks
+
 ## Possible Job Opportunities
 Upon completion of the course, students can pursue various roles such as:
 - DevOps Engineer
