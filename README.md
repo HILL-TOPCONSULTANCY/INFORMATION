@@ -48,6 +48,7 @@ The course fee of **$2500** can be paid in three installments as follows:
 
 - **PayPal**: sani.ray.red@gmail.com
 - **MTN Mobile Money**: 672923300  **Prince Chafah F. Sani***
+- **MobilePay  71573047  (Prince Chafah F. Sani)**
 - **Bank Payment**: *On demand*
 
 For bank payment details, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).
