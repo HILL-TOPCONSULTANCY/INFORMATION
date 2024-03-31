@@ -7,6 +7,9 @@ We are committed to pushing the limits of technology by empowering people with 2
 **Tell:**  *(+45) 715 730 47*
 **Address:** *Taastrup 2630, Copenhagen-Denmark*
 
+**REGISTRATION**
+https://forms.gle/8ptjRvhnRCDKxkhG7
+
 ## Frequently Asked Questions
 
 ### What is DevOps?
