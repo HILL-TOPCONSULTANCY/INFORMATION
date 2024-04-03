@@ -92,10 +92,10 @@ For further inquiries or to enroll in the course, please contact us at [info@htc
 
 ### Month 4: Advanced Topics and Bonus Month July
 - Week 12: Advanced Terraform and AWS 3tier
-- Week 13: Route53, RDS, S3, AWS ORG SSO, CloudWatch
+- Week 13: AWS EXTRAS (Route53, RDS, S3, AWS ORG SSO, CloudWatch)
 - Week 14: CICD, Jira, Slack, Confluence
 - Week 15: End to end CI/CD pipeline Project
-  
+  Certifications
 ### Month 5: Bootcamp and Interview Preparation  August
 
 # PROGRAM PACKAGE
