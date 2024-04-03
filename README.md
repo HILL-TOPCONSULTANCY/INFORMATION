@@ -73,26 +73,30 @@ For further inquiries or to enroll in the course, please contact us at [info@htc
 - **End Date:** August 3rd, 2024
 - **BootCamp Dates:** August 4th to August 31st, 2024
 
-### Month 1: Fundamentals
+### Month 1: Fundamentals  April
 - Week 1: Introduction to DevOps principles and practices
-- Week 2: Linux and Shell Scripting
-- Week 3: Cloud Computing with AWS
+- Week 2: Identity and Access Management IAM
+- Week 3: EC2 
 
-### Month 2: Automation and CI/CD
-- Week 4: Version Control with Git and GitHub
-- Week 5: Continuous Integration with Jenkins
-- Week 6: Setting up CI/CD pipelines with Jenkins
-
-### Month 3: Cloud and Containerization
+### Month 2: Automation and CI/CD  May
+- Week 4: VPC and Networking
+- Week 5: Linux and Shell Scripting
+- Week 6: Version Control with Git and GitHub
 - Week 7: Introduction to Infrastructure as Code (IaC) with Terraform
-- Week 8: Containerization with Docker
-- Week 9: Container Orchestration with Kubernetes
 
-### Month 4: Advanced Topics and Bonus Month
-- Week 10: Advanced Terraform and AWS
+### Month 3: Cloud and Containerization June
+- Week 8: Setting up CI/CD pipelines with Jenkins
+- Week 9: Containerization with Docker
+- Week 10: Container Orchestration with Kubernetes
 - Week 11: Advanced Docker and Kubernetes
-- Week 12: CICD, Jira, Slack
-- Bonus Month: Bootcamp and Interview Preparation
+
+### Month 4: Advanced Topics and Bonus Month July
+- Week 12: Advanced Terraform and AWS 3tier
+- Week 13: Route53, RDS, S3, AWS ORG SSO, CloudWatch
+- Week 14: CICD, Jira, Slack, Confluence
+- Week 15: End to end CI/CD pipeline Project
+  
+### Month 5: Bootcamp and Interview Preparation  August
 
 # PROGRAM PACKAGE
 - 4 Months handson training with industry grade projects
