@@ -117,6 +117,6 @@ Upon completion of the course, students can pursue various roles such as:
 - Release Manager
 
 ## Average Salary
-The average salary for DevOps professionals ranges from $90,000 to $150,000 per year, DKK50.000 to 70.000dkk a month depending on factors such as experience, location, and industry.
+The average salary for DevOps professionals ranges from `$90,000` to `$150,000` per year, `DKK50.000` to `DKK70.000` a month depending on factors such as experience, location, and industry.
 
 For further inquiries or to enroll in the course, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).   or Call us at    *(+45) 715 730 47*
