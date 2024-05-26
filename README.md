@@ -1,9 +1,7 @@
 # DEVOPS WITH HILL-TOP CONSULTANCY
 
-
 # Welcome to Hilltop Consultancy DevOps Course where IT is demystified
 We are committed to pushing the limits of technology by empowering people with 21st Century labor market IT skills
-
 
 ## Contact
 **Email:**  *info@htconsultancy.net*
@@ -11,6 +9,8 @@ We are committed to pushing the limits of technology by empowering people with 2
 **Address:** *Taastrup 2630, Copenhagen-Denmark*
 
 ## **REGISTRATION:**
+
+## Registreations are ongoing for CLASS2024B. Spaces are limited, so secure your spot by registering below
 https://forms.gle/8ptjRvhnRCDKxkhG7
 
 ### What is DevOps?
@@ -24,7 +24,6 @@ Anyone interested in enhancing their skills in software delivery and operations 
 ### You dont have any IT experience or Background?
 No prior IT experience or knowledge is required! Our DevOps course is tailored for beginners, offering expert guidance and hands-on training to empower your journey.
 
-
 ### What are the prerequisites for the course?
 You  need a laptop, an external monitor, good internet, and the passion to study. Preferably, candidates should have a bachelor's degree in any field for better understanding of concepts. 
 
@@ -37,31 +36,11 @@ Students are required to have a laptop with the following specifications:
 - Internet connection
 Students should also be in possession of a Master or Visa Card which will be used to setup a 12  months free tier account on AWS.
 
-## Payment Plan
-
-### What is the payment plan for the course?
-The course fee of **$2500** can be paid in three installments as follows:
-- First installment: **$1000** due at enrollment
-- Second installment: **$800** due at the beginning of the second month
-- Third installment: **$700** due at the beginning of the third month
-
-### Payments can be made via the following methods:
-
-- **PayPal**: sani.ray.red@gmail.com
-- **MTN Mobile Money**: 672923300  **Prince Chafah F. Sani***
-- **MobilePay  71573047  (Prince Chafah F. Sani)**
-- **Bank Payment**: *On demand*
-
-For bank payment details, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).
-
-For further inquiries or to enroll in the course, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).
-
 ## Course Schedule
 
 - Duration: 4 months (16 weeks)
 - Class format: Online Instructor-led sessions, hands-on labs, and projects
 - Schedule: Classes held three times a week (2 hours per session)
-
 
 ## Course Outline
 
@@ -120,7 +99,27 @@ Upon completion of the course, students can pursue various roles such as:
 - System Administrator
 - AWS Cloud Engineer
 
+
 ## Average Salary
 The average salary for DevOps professionals ranges from `$90,000` to `$150,000` per year, `DKK50.000` to `DKK70.000` a month depending on factors such as experience, location, and industry.
+
+## Payment Plan
+
+### What is the payment plan for the course?
+The course fee of **$2500** can be paid in three installments as follows:
+- First installment: **$1000** due at enrollment
+- Second installment: **$800** due at the beginning of the second month
+- Third installment: **$700** due at the beginning of the third month
+
+### Payments can be made via the following methods:
+
+- **PayPal**: sani.ray.red@gmail.com
+- **MTN Mobile Money**: 672923300  **Prince Chafah F. Sani***
+- **MobilePay  71573047  (Prince Chafah F. Sani)**
+- **Bank Payment**: *On demand*
+
+For bank payment details, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).
+
+For further inquiries or to enroll in the course, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).
 
 For further inquiries or to enroll in the course, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).   or Call us at    *(+45) 715 730 47*
