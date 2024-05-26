@@ -1,5 +1,5 @@
 # DEVOPS WITH HILL-TOP CONSULTANCY
-# FREQUENTLY ASKED QUESTION
+
 
 # Welcome to Hilltop Consultancy DevOps Course where IT is demystified
 We are committed to pushing the limits of technology by empowering people with 21st Century labor market IT skills
