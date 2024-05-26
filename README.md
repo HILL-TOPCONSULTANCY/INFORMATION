@@ -1,3 +1,4 @@
+# DEVOPS WITH HILL-TOP CONSULTANCY
 # FREQUENTLY ASKED QUESTION
 
 # Welcome to Hilltop Consultancy DevOps Course where IT is demystified
@@ -21,11 +22,11 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 Anyone interested in enhancing their skills in software delivery and operations can take the DevOps course. Also if you  have  no IT background and want to begin your journey into IT, this can a starter course for your new career ambitions.
 
 ### You dont have any IT experience or Background?
-No IT experience required! Our DevOps course is tailored for beginners, offering expert guidance and hands-on training to empower your journey.
+No prior IT experience or knowledge is required! Our DevOps course is tailored for beginners, offering expert guidance and hands-on training to empower your journey.
 
 
 ### What are the prerequisites for the course?
-You  need a laptop, good internet, and the passion to thrieve in the IT  industry. Preferably, candidates should have a bachelor's degree in any field for better understanding of concepts. 
+You  need a laptop, an external monitor, good internet, and the passion to study. Preferably, candidates should have a bachelor's degree in any field for better understanding of concepts. 
 
 ### What are the technical requirements to take the course?
 Students are required to have a laptop with the following specifications:
@@ -69,34 +70,34 @@ For further inquiries or to enroll in the course, please contact us at [info@htc
 ## Teaching Days
 - Classes will be held on **Tuesdays**, **Thursdays** from 7:00 - 9:00 CET, and **Saturdays** for catch-up days.
 
-- **Official Start Date:** April 9th, 2024
-- **End Date:** August 3rd, 2024
-- **BootCamp Dates:** August 4th to August 31st, 2024
+- **Official Start Date:** August 31st, 2024
+- **End Date:** January 25th, 2025
+- **BootCamp Dates:** January 1st to Janurary 31st, 2025
 
-### Month 1: Fundamentals  April
+### Month 1: Fundamentals  _September_
 - Week 1: Introduction to DevOps principles and practices
 - Week 2: Identity and Access Management IAM
 - Week 3: EC2 
 
-### Month 2: Automation and CI/CD  May
+### Month 2: Automation and CI/CD _October_
 - Week 4: VPC and Networking
 - Week 5: Linux and Shell Scripting
 - Week 6: Version Control with Git and GitHub
 - Week 7: Introduction to Infrastructure as Code (IaC) with Terraform
 
-### Month 3: Cloud and Containerization June
+### Month 3: Cloud and Containerization _Novermber_
 - Week 8: Setting up CI/CD pipelines with Jenkins
 - Week 9: Containerization with Docker
 - Week 10: Container Orchestration with Kubernetes
 - Week 11: Advanced Docker and Kubernetes
 
-### Month 4: Advanced Topics and Bonus Month July
+### Month 4: Advanced Topics and Bonus Month _December_
 - Week 12: Advanced Terraform and AWS 3tier
 - Week 13: AWS EXTRAS (Route53, RDS, S3, AWS ORG SSO, CloudWatch)
 - Week 14: CICD, Jira, Slack, Confluence
 - Week 15: End to end CI/CD pipeline Project
   Certifications
-### Month 5: Bootcamp and Interview Preparation  August
+### Month 5: Bootcamp and Interview Preparation  _January_
 
 # PROGRAM PACKAGE
 - 4 Months handson training with industry grade projects
@@ -115,6 +116,9 @@ Upon completion of the course, students can pursue various roles such as:
 - Cloud Solution Architect
 - Automation Engineer
 - Release Manager
+- Automation Engineer
+- System Administrator
+- AWS Cloud Engineer
 
 ## Average Salary
 The average salary for DevOps professionals ranges from `$90,000` to `$150,000` per year, `DKK50.000` to `DKK70.000` a month depending on factors such as experience, location, and industry.
