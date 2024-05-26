@@ -120,6 +120,4 @@ The course fee of **$2500** can be paid in three installments as follows:
 
 For bank payment details, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).
 
-For further inquiries or to enroll in the course, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).
-
 For further inquiries or to enroll in the course, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).   or Call us at    *(+45) 715 730 47*
