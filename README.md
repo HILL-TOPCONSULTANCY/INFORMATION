@@ -4,9 +4,9 @@
 We are committed to pushing the limits of technology by empowering people with 21st Century labor market IT skills
 
 ## Contact
-**Email:**  *info@htconsultancy.net*
-**Tell:**  *(+45) 715 730 47*
-**Address:** *Taastrup 2630, Copenhagen-Denmark*
++ **Email:**  *info@htconsultancy.net*
++ **Tell:**  *(+45) 715 730 47*
++ **Address:** *Taastrup 2630, Copenhagen-Denmark*
 
 ## **REGISTRATION:**
 
