@@ -14,18 +14,21 @@ We are committed to pushing the limits of technology by empowering people with 2
 Register here: _https://forms.gle/8ptjRvhnRCDKxkhG7_
 
 ### What is DevOps?
-DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the software development life cycle and provide continuous delivery with high software quality.
++ DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).
++ It aims to shorten the software development life cycle and provide continuous delivery with high software quality.
 
 ## Course Eligibility
 
 ### Who can take the DevOps course?
-Anyone interested in enhancing their skills in software delivery and operations can take the DevOps course. Also if you  have  no IT background and want to begin your journey into IT, this can a starter course for your new career ambitions.
++ Anyone interested in enhancing their skills in software delivery and operations can take the DevOps course.
++ Also if you  have  no IT background and want to begin your journey into IT, this can a starter course for your new career ambitions.
 
 ### You dont have any IT experience or Background?
-No prior IT experience or knowledge is required! Our DevOps course is tailored for beginners, offering expert guidance and hands-on training to empower your journey.
++ No prior IT experience or knowledge is required! Our DevOps course is tailored for beginners, offering expert guidance and hands-on training to empower your journey.
 
 ### What are the prerequisites for the course?
-You  need a laptop, an external monitor, good internet, and the passion to study. Preferably, candidates should have a bachelor's degree in any field for better understanding of concepts. 
++ You  need a laptop, an external monitor, good internet, and the passion to study.
++ Preferably, candidates should have a bachelor's degree in any field for better understanding of concepts. 
 
 ### What are the technical requirements to take the course?
 Students are required to have a laptop with the following specifications:
@@ -101,8 +104,7 @@ Upon completion of the course, students can pursue various roles such as:
 
 
 ## Average Salary
-The average salary for DevOps professionals ranges from `$90,000` to `$150,000` per year, `DKK50.000` to `DKK70.000` a month depending on factors such as experience, location, and industry.
-
++ The average salary for DevOps professionals ranges from `55,000`DKK to `65,000DKK`
 ## Payment Plan
 
 ### What is the payment plan for the course?
@@ -113,11 +115,12 @@ The course fee of **17000DKK** can be paid in three installments as follows:
 
 ### Payments can be made via the following methods:
 
-- **PayPal**: sani.ray.red@gmail.com
+- **PayPal**: devops@htconsultancy.net
 - **MTN Mobile Money**: 672923300  **Prince Chafah F. Sani***
 - **MobilePay  71573047  (Prince Chafah F. Sani)**
 - **Bank Payment**: *On demand*
 
-For bank payment details, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).
++ For bank payment details, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).
 
-For further inquiries or to enroll in the course, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).   or Call us at    *(+45) 715 730 47*
++ For further inquiries or to enroll in the course, please contact us at [info@htconsultancy.net](mailto:info@htconsultancy.net).
++  or Call us at    *(+45) 715 730 47*
