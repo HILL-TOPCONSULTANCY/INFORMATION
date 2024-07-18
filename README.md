@@ -106,10 +106,10 @@ The average salary for DevOps professionals ranges from `$90,000` to `$150,000` 
 ## Payment Plan
 
 ### What is the payment plan for the course?
-The course fee of **$2500** can be paid in three installments as follows:
-- First installment: **$1000** due at enrollment
-- Second installment: **$800** due at the beginning of the second month
-- Third installment: **$700** due at the beginning of the third month
+The course fee of **17000DKK** can be paid in three installments as follows:
+- First installment: **6800DKK** due at enrollment
+- Second installment: **5400DKK** due at the beginning of the second month
+- Third installment: **4700DKK** due at the beginning of the third month
 
 ### Payments can be made via the following methods:
 
