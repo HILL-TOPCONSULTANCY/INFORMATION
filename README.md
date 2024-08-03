@@ -11,7 +11,7 @@ We are committed to pushing the limits of technology by empowering people with 2
 ## **REGISTRATION:**
 
 ## Registrations are ongoing for CLASS2024B with limited spaces available
-Register here: _https://forms.gle/8ptjRvhnRCDKxkhG7_
+[REGISTER HERE](https://forms.gle/8ptjRvhnRCDKxkhG7)
 
 ### What is DevOps?
 + DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).
