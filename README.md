@@ -1,4 +1,4 @@
-![Logo](baanner.png)
+![Logo](banner.png)
 
 # DEVOPS WITH HILL-TOP CONSULTANCY
 
