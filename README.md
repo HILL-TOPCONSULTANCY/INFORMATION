@@ -1,4 +1,5 @@
-![Screenshot](baanner.png)
+![Logo](baanner.png)
+
 # DEVOPS WITH HILL-TOP CONSULTANCY
 
 # Welcome to Hilltop Consultancy DevOps Course where IT is demystified
