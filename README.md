@@ -9,7 +9,7 @@ We are committed to pushing the limits of technology by empowering people with 2
 + **Email:**  *info@htconsultancy.net*
 + **Tell:**  *(+45) 715 730 47*
 + **Address:** *Taastrup 2630, Copenhagen-Denmark*
-+ [website](www.htconsult.dk)
++ [website](htconsult.dk)
 
 ## **REGISTRATION:**
 
