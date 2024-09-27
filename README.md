@@ -91,8 +91,8 @@ Students should also be in possession of a Master or Visa Card which will be use
 - CV Preperations
 - Interview Preperations
 - Referencing and Background checks
-
-## Possible Job Opportunities
+---
+# DevOps Job Opportunities
 Upon completion of the course, students can pursue various roles such as:
 - DevOps Engineer
 - DecSecOps Engineer
@@ -108,9 +108,8 @@ Upon completion of the course, students can pursue various roles such as:
 
 ## Average Salary
 + The average salary for DevOps professionals ranges from `55,000`DKK to `65,000DKK`
-## Payment Plan
 
-### What is the payment plan for the course?
+### Payment Plan
 The course fee of **17000DKK** can be paid in three installments as follows:
 - First installment: **10000DKK** due at enrollment
 - Second installment: **7000DKK** due at the beginning of the second month
