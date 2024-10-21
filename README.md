@@ -55,16 +55,16 @@ Students should also be in possession of a Master or Visa Card which will be use
 ## Teaching Days
 - Classes will be held on **Tuesdays**, **Thursdays** from 7:00 - 9:00 CET, and **Saturdays** for catch-up days.
 
-- **Official Start Date:** August 31st, 2024
-- **End Date:** January 25th, 2025
-- **BootCamp Dates:** January 1st to Janurary 31st, 2025
+- **Official Start Date:**  1st February, 2025
+- **End Date:** May 30th, 2025
+- **BootCamp Dates:** May 30th to June 30th, 2025
 
-### Month 1: Fundamentals  _September_
+### Month 1: Fundamentals  _Janurary 2025_
 - Week 1: Introduction to DevOps principles and practices
 - Week 2: Identity and Access Management IAM
 - Week 3: EC2 
 
-### Month 2: Automation and CI/CD _October_
+### Month 2: Automation and CI/CD _October_ 
 - Week 4: VPC and Networking
 - Week 5: Linux and Shell Scripting
 - Week 6: Version Control with Git and GitHub
