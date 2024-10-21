@@ -1,7 +1,7 @@
 ![Logo](banner.png)
 
 # DEVOPS WITH HILL-TOP CONSULTANCY
-
+# CLASS 2025A  REGISTRATION ONGOING.......
 # Welcome to Hilltop Consultancy DevOps Course where IT is demystified
 We are committed to pushing the limits of technology by empowering people with 21st Century labor market IT skills
 
