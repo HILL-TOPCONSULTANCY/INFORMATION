@@ -56,8 +56,8 @@ Students should also be in possession of a Master or Visa Card which will be use
 - Classes will be held on **Tuesdays**, **Thursdays** from 7:00 - 9:00 CET, and **Saturdays** for catch-up days.
 
 - **Official Start Date:**  1st February, 2025
-- **End Date:** May 30th, 2025
-- **BootCamp Dates:** May 30th to June 30th, 2025
+- **End Date:** June 30th, 2025
+- **BootCamp Dates:** June 30th to July 30th, 2025
 
 ### Month 1: Fundamentals  _Janurary 2025_
 - Week 1: Introduction to DevOps principles and practices
