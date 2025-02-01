@@ -17,8 +17,8 @@ We are committed to pushing the limits of technology by empowering people with 2
 [REGISTER HERE](https://forms.gle/LpBUNFypDLzkdiJt8)
 
 ### What is DevOps?
-+ DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).
-+ It aims to shorten the software development life cycle and provide continuous delivery with high software quality.
+DevOps describes a culture and methodology that seeks to encourage closer collaboration between developers (DEV) and IT operations (OPS). 
+It speeds up software development, enhances the product, and optimizes efficiency, making organizations more competitive.
 
 ## Course Eligibility
 
